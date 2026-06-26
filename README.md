@@ -1,6 +1,6 @@
 # 🛡️ SENTINEL GRID V2 — Billing System Protection with Adaptive Deception
 
-**ITWEB Secure Innovation Hackathon 2026** | *Team: Neutral Fence*
+**ITWeb Secure Innovation Hackathon 2026** | *Team: Neutral Fence*
 
 ---
 
