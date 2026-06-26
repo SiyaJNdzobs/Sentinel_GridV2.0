@@ -14,7 +14,7 @@
 
 | Detail | Information |
 |--------|-------------|
-| **Live Demo** | [(https://heckerthon.netlify.app/)] |
+| **Live Demo** | [live Prototype](https://heckerthon.netlify.app/) |
 | **Repository** | [github.com/yourusername/Sentinel_gridFinale](https://github.com/yourusername/Sentinel_gridFinale) |
 
 ---
